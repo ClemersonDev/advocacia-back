@@ -6,6 +6,12 @@
   "scripts": {
     "start": "node src/server.js"
   },
+
+  "engines": {
+    "node": "v12.18.1",
+    "npm": "6.14.5",
+  },
+
   "keywords": [],
   "author": "",
   "license": "ISC",
